@@ -12,7 +12,7 @@ This is a simple Snake game implemented in Java using the Swing library. The gam
 *Continuous Play: Restart the game by closing and reopening the application.
 
 ![Main Game Window](src/snake1.png)
-![Main Game Window](src/images/snake2.png)
+![Main Game Window](src/snake2.png)
 
 *Requirements*
 
