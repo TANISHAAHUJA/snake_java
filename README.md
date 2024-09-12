@@ -21,7 +21,10 @@ Java: This game requires Java 8 or higher.
 *Usage*
 
 *Start the Game: Run the SnakeGame class to start the game.
+
 *Control the Snake: Use the arrow keys (Up, Down, Left, Right) to control the direction of the snake.
+
 *Objective: Eat the food squares to grow the snake. Avoid collisions with the walls and the snake's own body.
+
 *Game Over: The game will display "Game Over" when the snake collides with itself or the walls. Restart the game by closing and reopening the application.
 
